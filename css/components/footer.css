@@ -1,0 +1,25 @@
+.footer {
+  background-color: #3C474B;
+  background-size: cover;
+  height: 170px;
+  width: 100%;
+  margin-top: 35px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.social i {
+  margin: 0 20px;
+  font-size: 25px;
+  color: white;
+}
+
+.social i:hover {
+  color: grey;
+}

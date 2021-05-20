@@ -1,0 +1,15 @@
+.banner .container a {
+  background-color: #AAC0AA;
+  border-radius: 10px;
+  color: #37323E;
+  padding: 10px 15px;
+  box-shadow: 1px 1px 1px #aac0aa;
+  transition: 0.3s ease;
+  text-shadow: none;
+}
+
+.banner .container a:hover {
+  background-color: #011627;
+  box-shadow: 1px 1px 1px #011627;
+  color: white;
+}
